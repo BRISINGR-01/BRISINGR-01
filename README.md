@@ -1,2 +1,1 @@
-# Hi there! 👋 I'm Alex
-I'm a passionate web developer with experience in crafting various digital solutions ranging from websites to cross-platform apps and even 3D websites. I like learning languages, cycling and playing minecraft.
+![teminal](https://github.com/BRISINGR-01/BRISINGR-01/blob/main/Screenshot%20from%202024-04-26%2001-28-35.png)
